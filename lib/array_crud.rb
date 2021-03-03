@@ -1,9 +1,9 @@
 def create_an_empty_array
-  []
+  led_zeppelin = []
 end
 
 def create_an_array
-  ["John Bonham", "John Paul Jones", "Jimmy Page", "Robert Plant"]
+  led_zeppelin = ["John Bonham", "John Paul Jones", "Jimmy Page", "Robert Plant"]
 end
 
 def add_element_to_end_of_array(array, element)

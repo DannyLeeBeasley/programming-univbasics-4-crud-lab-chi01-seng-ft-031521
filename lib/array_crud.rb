@@ -3,11 +3,11 @@ def create_an_empty_array
 end
 
 def create_an_array
-  ["John Bonham", "John Paul Jones", "Jimmy Page", "Robert Plant"]
+  Led Zeppelin = ["John Bonham", "John Paul Jones", "Jimmy Page", "Robert Plant"]
 end
 
 def add_element_to_end_of_array(array, element)
-  create_an_array << "ME"
+  Led Zeppelin << "ME"
 end
 
 def add_element_to_start_of_array(array, element)

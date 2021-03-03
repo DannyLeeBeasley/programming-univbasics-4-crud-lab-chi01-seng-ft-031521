@@ -9,7 +9,7 @@ end
 def add_element_to_end_of_array(array, element)
   array = ["John Bonham", "John Paul Jones", "Jimmy Page", "Robert Plant"]
   element = "Me
-  array.push << element
+  array.push("Me")
 end
 
 def add_element_to_start_of_array(array, element)

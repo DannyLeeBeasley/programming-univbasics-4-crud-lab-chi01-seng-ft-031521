@@ -3,7 +3,7 @@ def create_an_empty_array
 end
 
 def create_an_array
-  Led Zeppellin = ["John Bonham", "John Paul Jones", "Jimmy Page", "Robert Plant"]
+  ["John Bonham", "John Paul Jones", "Jimmy Page", "Robert Plant"]
 end
 
 def add_element_to_end_of_array(array, element)
